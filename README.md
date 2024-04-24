@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Living Code
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Django, React, Node & Express js, Tailwind
-- 💞️ I’m looking to collaborate on fullstack projects that involve Django REST Api, 
+- 🌱 I’m currently learning Django, React JS, Node & Express JS, Tailwind CSS
+- 💞️ I’m looking to collaborate on fullstack projects that involves Django, React JS, Node & Express JS 
 - 📫 How to reach me:
 -     email: ebaze.tech@gmail.com
 -     phone number: +234 (0) 8068876638, +234 (0) 9128463886
