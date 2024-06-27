@@ -1,7 +1,7 @@
 - 👋 Hi, I’m TechMaven 
 - 👀 I’m interested in fullstack development
-- 🌱 I’m a fullstack developer that uses Django, React JS, Node & Express JS, Tailwind CSS to build robust functional web applications.
-- 💞️ I’m looking to collaborate on fullstack projects that involves Django, React JS, Node & Express JS 
+- 🌱 I’m a fullstack developer that uses Django, React JS, Node & Express JS, MySQL, MongoDB, PHP Laravel and Tailwind CSS to build robust functional web applications.
+- 💞️ I’m looking to collaborate on fullstack projects.
 - 📫 How to reach me:
 -     email: ebaze.tech@gmail.com
 -     phone number: +234 (0) 8068876638, +234 (0) 9128463886
