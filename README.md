@@ -5,7 +5,7 @@ I'm a software developer and a 300-level student of Civil Engineering at the Uni
 🧰 Tech & Tools I Use
 
 - *Languages:* JavaScript, TypeScript, Python, SQL, Flutter
-- *Frameworks:* React, Next.js, Node.js, Express.js, Tailwind CSS, Flutter, React Native. Django
+- *Frameworks:* React, Next.js, Node.js, Express.js, Tailwind CSS, Flutter, React Native, Django
 - *Databases:* PostgreSQL, MongoDB, MySQL
 - *Tools:* Git, GitHub, Docker, Postman, VS Code, Vercel, Android Studio
 
@@ -26,4 +26,4 @@ I'm a software developer and a 300-level student of Civil Engineering at the Uni
 
 📌 Fun Fact
 
-Despite studying Civil Engineering, I’ve built more lines of code than concrete beams — and I love it!
+*Though I’m studying Civil Engineering, my passion for software engineering has grown even stronger — and it’s now a big integral part of who I am.*
