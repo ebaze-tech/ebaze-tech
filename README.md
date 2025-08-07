@@ -22,7 +22,7 @@ I'm a software developer and a 300-level student of Civil Engineering at the Uni
 📫 Let's Connect
 
 - *Email:* ebaze.technologies@gmail.com  
-- *LinkedIn:* linkedin.com/in/toluwanimi-faramade-082476285/ 
+- *LinkedIn:*  https://linkedin.com/in/toluwanimi-faramade-082476285/
 
 📌 Fun Fact
 
