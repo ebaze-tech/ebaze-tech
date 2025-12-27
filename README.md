@@ -41,7 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaze-tech&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
 </div>
 
----
 <div align="center">
 ### 👥 Leadership & Community
 I am passionate about fostering tech talent at the **University of Ibadan**:
@@ -53,7 +52,6 @@ I am passionate about fostering tech talent at the **University of Ibadan**:
 * **DevOps:** Mastering CI/CD pipelines and Containerization optimization.
 * **Design:** Building scalable design systems and component libraries.
 </div>
----
 
 <div align="center">
   <i>"Though I study the physics of concrete structures, my passion lies in the architecture of abstract code."</i>
