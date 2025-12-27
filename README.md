@@ -43,9 +43,9 @@
 
 <div align="center">
 ### 👥 Leadership & Community
-I am passionate about fostering tech talent at the **University of Ibadan**:
-* **Team Lead:** Guiding a team of student developers to build innovative campus solutions.
-* **Mentorship:** actively mentoring peers in Full-Stack development concepts.
+I am passionate about fostering tech talent at the University of Ibadan:
+Team Lead: Guiding a team of student developers to build innovative campus solutions.
+Mentorship: actively mentoring peers in Full-Stack development concepts.
 
 ### 🌱 Currently Exploring
 * **Architecture:** Moving beyond monoliths into Advanced Backend Architecture (Microservices).
