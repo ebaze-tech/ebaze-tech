@@ -34,11 +34,15 @@
 </div>
 <br>
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebaze-tech&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaze-tech&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  <a href="https://github.com/ebaze-tech">
+    <img src="https://github-readme-stats-kohl-omega-19.vercel.app/api?username=ebaze-tech&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
+  </a>
+  <a href="https://github.com/ebaze-tech">
+    <img src="https://github-readme-stats-kohl-omega-19.vercel.app/api/top-langs/?username=ebaze-tech&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  </a>
 </div>
 
 <div align="center">
