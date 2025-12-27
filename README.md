@@ -21,7 +21,7 @@
 
 ---
 <div align="center">
-# 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
