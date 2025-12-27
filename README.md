@@ -53,10 +53,12 @@ I am passionate about fostering tech talent at the **University of Ibadan**:
 * **Team Lead:** Guiding a team of student developers to build innovative campus solutions.
 * **Mentorship:** Actively mentoring peers in Full-Stack development concepts.
 
-### 🌱 Currently Exploring
-* **Architecture:** Moving beyond monoliths into Advanced Backend Architecture (Microservices).
-* **DevOps:** Mastering CI/CD pipelines and Containerization optimization.
-* **Design:** Building scalable design systems and component libraries.
+### 🔭 The Next Frontier
+I don't just write code that works; I aim to write code that **scales**. My current R&D is focused on solving "Day 2" problems:
+
+* **From "Works on my Machine" to "Works Everywhere":** Deep diving into **Containerization** and **DevOps** workflows.
+* **Backend Optimization:** Researching how to reduce latency and optimize queries in high-traffic **Microservice** environments.
+* **Architectural Patterns:** Implementing design systems that make codebases maintainable for years, not just weeks.
 
 <br>
 
