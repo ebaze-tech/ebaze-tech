@@ -20,8 +20,9 @@
 </div>
 
 ---
-<div align="center">
 ### 🛠️ Technical Arsenal
+
+<div align="center">
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
