@@ -20,7 +20,7 @@
 </div>
 
 ---
-
+<div align="center">
 ### 🛠️ Technical Arsenal
 
 | **Domain** | **Technologies** |
@@ -31,18 +31,18 @@
 | **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
+</div>
 <br>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ebaze-tech&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaze-tech&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 ---
-
+<div align="center">
 ### 👥 Leadership & Community
 I am passionate about fostering tech talent at the **University of Ibadan**:
 * **Team Lead:** Guiding a team of student developers to build innovative campus solutions.
@@ -52,7 +52,7 @@ I am passionate about fostering tech talent at the **University of Ibadan**:
 * **Architecture:** Moving beyond monoliths into Advanced Backend Architecture (Microservices).
 * **DevOps:** Mastering CI/CD pipelines and Containerization optimization.
 * **Design:** Building scalable design systems and component libraries.
-
+</div>
 ---
 
 <div align="center">
