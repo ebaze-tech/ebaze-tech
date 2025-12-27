@@ -34,7 +34,7 @@
 </div>
 <br>
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ebaze-tech&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
