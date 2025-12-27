@@ -45,19 +45,19 @@
   </a>
 </div>
 
-<div align="center">
+---
+
 ### 👥 Leadership & Community
 I am passionate about fostering tech talent at the **University of Ibadan**:
-Team Lead: Guiding a team of student developers to build innovative campus solutions.
-Mentorship: actively mentoring peers in Full-Stack development concepts.
-</div>
+* **Team Lead:** Guiding a team of student developers to build innovative campus solutions.
+* **Mentorship:** Actively mentoring peers in Full-Stack development concepts.
 
-<div align="center">
 ### 🌱 Currently Exploring
 * **Architecture:** Moving beyond monoliths into Advanced Backend Architecture (Microservices).
 * **DevOps:** Mastering CI/CD pipelines and Containerization optimization.
 * **Design:** Building scalable design systems and component libraries.
-</div>
+
+<br>
 
 <div align="center">
   <i>"Though I study the physics of concrete structures, my passion lies in the architecture of abstract code."</i>
