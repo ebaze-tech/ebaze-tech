@@ -2,12 +2,12 @@
 
   # Hi there, I'm Toluwanimi Faramade! 👋
   
-  <h3>Civil Engineering Student | Full-Stack Software Developer</h3>
+  <h3>Civil Engineering Student | Software Engineer </h3>
 
   <p>
     I bridge the gap between <b>structural engineering discipline</b> and <b>software innovation</b>. 
     <br> 
-    A 400-level Civil Engineering undergraduate at the University of Ibadan with 2+ years of experience building scalable web and mobile applications.
+    A 400-level Civil Engineering undergraduate at the University of Ibadan with 3 years of experience building scalable web and mobile applications.
   </p>
 
   <a href="mailto:ebaze.technologies@gmail.com">
