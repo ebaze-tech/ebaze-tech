@@ -35,19 +35,7 @@
 </div>
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ebaze-tech">
-    <img src="https://github-readme-stats-kohl-omega-19.vercel.app/api?username=ebaze-tech&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  </a>
-  <a href="https://github.com/ebaze-tech">
-    <img src="https://github-readme-stats-kohl-omega-19.vercel.app/api/top-langs/?username=ebaze-tech&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
-  </a>
-</div>
-
 ---
-
 ### 👥 Leadership & Community
 I am passionate about fostering tech talent at the **University of Ibadan**:
 * **Team Lead:** Guiding a team of student developers to build innovative campus solutions.
