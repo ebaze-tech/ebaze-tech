@@ -4,7 +4,7 @@
 
 ### Civil Engineer by Discipline · Software Engineer by Craft
 
-I bridge structural engineering rigor with software innovation — building scalable web and mobile products while completing a 400-level Civil Engineering degree at the University of Ibadan.
+I bridge structural engineering rigor with software innovation by building scalable web and mobile products while completing a 400-level Civil Engineering degree at the University of Ibadan.
 
 [![Email](https://img.shields.io/badge/Email-Me-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebaze.technologies@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toluwanimi-faramade-082476285/)
