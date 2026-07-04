@@ -82,15 +82,6 @@ I bridge structural engineering rigor with software innovation by building scala
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ebaze-tech&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaze-tech&layout=compact&hide_border=true" height="165" alt="Top languages"/>
-
-</div>
-
 <br>
 
 ## Leadership & Community
