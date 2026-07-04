@@ -20,7 +20,7 @@ I bridge structural engineering rigor with software innovation by building scala
 - 🧭 Team Lead guiding student developers on campus solutions at UI
 - 🌱 Currently researching **containerization**, **DevOps workflows**, and **microservice optimization**
 - 🎯 Focused on writing code that scales — and systems that stay maintainable for years, not weeks
- 💬 Ask me about full-stack development, database design, or how structural thinking applies to software architecture
+- 💬 Ask me about full-stack development, database design, or how structural thinking applies to software architecture
 
 <br>
 
