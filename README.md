@@ -13,7 +13,9 @@ I bridge structural engineering rigor with software innovation by building scala
 
 <br>
 
+<div align="center">
 ## About Me
+</div>
 
 - 🏗️ 400-level **Civil Engineering** undergraduate, University of Ibadan
 - 💻 3+ years building scalable **web and mobile applications**
