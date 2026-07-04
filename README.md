@@ -86,12 +86,10 @@ I bridge structural engineering rigor with software innovation by building scala
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ebaze-tech&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaze-tech&layout=compact&hide_border=true" height="165" alt="Top languages"/>
 
 </div>
-
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle to activate these stat cards.
 
 <br>
 
