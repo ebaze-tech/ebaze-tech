@@ -102,7 +102,7 @@ I bridge structural engineering rigor with software innovation by building scala
 
 ## The Next Frontier
 
-I don't just write code that works — I aim to write code that **scales**. My current R&D is focused on solving "Day 2" problems:
+I don't just write code that works I aim to write code that **scales**. My current R&D is focused on solving "Day 2" problems:
 
 | Focus Area | What I'm Exploring |
 |---|---|
