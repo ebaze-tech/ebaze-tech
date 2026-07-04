@@ -13,18 +13,16 @@ I bridge structural engineering rigor with software innovation by building scala
 
 <br>
 
-<div align="center">
+<br>
 ## About Me
-
+ 
 - 🏗️ 400-level **Civil Engineering** undergraduate, University of Ibadan
 - 💻 3+ years building scalable **web and mobile applications**
 - 🧭 Team Lead guiding student developers on campus solutions at UI
 - 🌱 Currently researching **containerization**, **DevOps workflows**, and **microservice optimization**
-- 🎯 Focused on writing code that scales and systems that stay maintainable for years, not weeks
+- 🎯 Focused on writing code that scales — and systems that stay maintainable for years, not weeks
 - 💬 Ask me about full-stack development, database design, or how structural thinking applies to software architecture
-
 <br>
-</div>
 <div align="center">
   
 ## Technical Arsenal
