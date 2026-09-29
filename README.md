@@ -89,8 +89,8 @@ I bridge structural engineering rigor with software innovation by building scala
 
 ## Leadership & Community
 
-- **Team Lead** — guiding a team of student developers building innovative campus solutions at the University of Ibadan
-- **Mentor** — actively coaching peers in full-stack development concepts and career growth
+- **Team Lead:** guiding a team of student developers building innovative campus solutions at the University of Ibadan
+- **Mentor:** actively coaching peers in full-stack development concepts and career growth
 
 <br>
 
