@@ -2,7 +2,7 @@
 
 # Toluwanimi Faramade
 
-### Civil Engineer by Discipline · Software Engineer by Craft
+### Civil Engineer by Discipline · Software Engineer by Passion
 
 I bridge structural engineering rigor with software innovation by building scalable web and mobile products while completing a 400-level Civil Engineering degree at the University of Ibadan.
 
